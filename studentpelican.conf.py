@@ -3,7 +3,7 @@
 
 AUTHOR = u"Mark Betnel"
 SITENAME = u"Computational Thinking - AI"
-SITEURL = 'http://markbetnel.com/courses/ct-ai/public'
+SITEURL = 'https://markbetnel.com/courses/ct-ai/public'
 
 TIMEZONE = 'America/Los_Angeles'
 GOOGLE_ANALYTICS = "UA-20141547-1"
@@ -27,7 +27,7 @@ DIRECT_TEMPLATES = (('index', 'tags', 'categories','archives', 'search', '404'))
 
 SITEMAP = { 'format': 'xml'}
 
-LANDING_PAGE_ABOUT = {'details': """<div itemscope itemtype="http://schema.org/Person"><p>This is a public project page for things I'm working on<p></div>"""}
+LANDING_PAGE_ABOUT = {'details': """<div itemscope itemtype="http://schema.org/Person">This is the course website for Computational Thinking: AI, Machine Learning, and the Future</div>"""}
 
 MATH_JAX = {'color':'blue', 'menuSettings': {"zoom": "Click"}}
 

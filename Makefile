@@ -5,5 +5,8 @@ student:
 teacher:
 	make -f makefile.teacher all
 
-all: student teacher
+all: student teacher local
+
+local:
+	make -f makefile.local html
  

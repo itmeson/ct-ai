@@ -6,7 +6,7 @@ BASEDIR=$(PWD)
 INPUTDIR=$(BASEDIR)/src
 OUTPUTDIR=$(BASEDIR)/output-me
 CONFFILE=$(BASEDIR)/teacherpelican.conf.py
-THEME=elegant-course
+THEME=elegant-secure
 
 
 SSH_HOST=web 
